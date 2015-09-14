@@ -38,8 +38,11 @@ Sketch内容自动生成器可以帮助设计师快速生成头像, 姓名,地�
 
 ## 安装
 和PS类似，将下载的文件夹拖入到相应路径即可（优狐哥正在做智能化的安装工具，以后各位UIer就会方便很多了）
+
 **通过安装程序路径：**`/Library/Application Support/com.bohemiancoding.sketch3` 
+
 **通过ifinder路径：**：'~/Library/Containers/com.bohemiancoding.sketch3/Data/Library/Application Support/com.bohemiancoding.sketch3/'
+
 **通过依次点击sketch3的菜单选项，打开安装路径：** `Plugins / Reveal Plugins folder...`
 
 ## 即将升级的功能
