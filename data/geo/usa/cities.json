@@ -1,101 +1,101 @@
 data = [
-"New York",
-"Los Angeles",
-"Chicago",
-"Houston",
-"Phoenix",
-"Philadelphia",
-"San Antonio",
-"San Diego",
-"Dallas",
-"San Jose",
-"Detroit",
-"Jacksonville",
-"Indianapolis",
-"San Francisco",
-"Columbus",
-"Austin",
-"Memphis",
-"Fort Worth",
-"Baltimore",
-"Charlotte",
-"El Paso",
-"Boston",
-"Seattle",
-"Washington",
-"Milwaukee",
-"Denver",
-"Louisville/Jefferson County",
-"Las Vegas",
-"Nashville-Davidson",
-"Oklahoma City",
-"Portland",
-"Tucson",
-"Albuquerque",
-"Atlanta",
-"Long Beach",
-"Fresno",
-"Sacramento",
-"Mesa",
-"Kansas City",
-"Cleveland",
-"Virginia Beach",
-"Omaha",
-"Miami",
-"Oakland",
-"Tulsa",
-"Honolulu",
-"Minneapolis",
-"Colorado Springs",
-"Arlington",
-"Wichita",
-"Raleigh",
-"St. Louis",
-"Santa Ana",
-"Anaheim",
-"Tampa",
-"Cincinnati",
-"Pittsburgh",
-"Bakersfield",
-"Aurora",
-"Toledo",
-"Riverside",
-"Stockton",
-"Corpus Christi",
-"Newark",
-"Anchorage",
-"Buffalo",
-"St. Paul",
-"Lexington-Fayette",
-"Plano",
-"Fort Wayne",
-"St. Petersburg",
-"Glendale",
-"Jersey City",
-"Lincoln",
-"Henderson",
-"Chandler",
-"Greensboro",
-"Scottsdale",
-"Baton Rouge",
-"Birmingham",
-"Norfolk",
-"Madison",
-"New Orleans",
-"Chesapeake",
-"Orlando",
-"Garland",
-"Hialeah",
-"Laredo",
-"Chula Vista",
-"Lubbock",
-"Reno",
-"Akron",
-"Durham",
-"Rochester",
-"Modesto",
-"Montgomery",
-"Fremont",
-"Shreveport",
-"Arlington",
-"Glendale"]
+“纽约”，
+“洛杉矶”，
+“芝加哥”，
+“休斯敦”
+“凤凰”，
+“费城”，
+“圣安东尼奥”
+“圣地亚哥”，
+“达拉斯”，
+“圣荷西”，
+“底特律”，
+“杰克逊维尔”，
+“印第安纳波利斯”
+“旧金山”，
+“哥伦布”
+“奥斯汀”
+“孟菲斯”，
+“沃斯堡”，
+“巴尔的摩”，
+“夏洛特”，
+“帕索”，
+“波士顿”，
+“西雅图”，
+“华盛顿”号，
+“密尔沃基”
+“掘金”，
+“路易斯维尔/杰斐逊县”，
+“拉斯维加斯”，
+“纳什维尔戴维森”
+“俄克拉荷马城”
+“兰”，
+“图森”，
+“阿尔伯克基”
+“亚特兰大”
+“长滩”，
+“弗雷斯诺”
+“萨克拉门托”，
+“梅萨”
+“堪萨斯城”，
+“骑士”，
+“弗吉尼亚海滩”，
+“奥马哈”，
+“迈阿密”，
+“奥克兰”
+“塔尔萨”
+“檀香山”，
+“明尼阿波利斯”
+“科罗拉多斯普林斯”
+“阿灵顿”
+“威奇塔”
+“罗利”
+“圣路易斯”
+“圣安娜”
+“阿纳海姆”
+“坦帕”
+“辛辛那提”
+“匹兹堡”
+“贝克斯菲尔德”，
+“极光”，
+“托莱多”
+“清明上河图”，
+“斯托克顿”，
+“科珀斯克里斯蒂”，
+“纽瓦克”
+“安克雷奇”
+“水牛”，
+“圣保罗”，
+“列克星敦Fayette”
+“普莱诺”
+“韦恩堡”，
+“圣彼得堡”，
+“格伦代尔”，
+“泽西城”
+“林肯”，
+“恒基兆业”，
+“钱德勒”
+“格林斯博罗”
+“斯科茨代尔”，
+“巴吞鲁日”，
+“伯明翰”，
+“诺福克”
+“麦迪逊”，
+“新奥尔良”，
+“切萨皮克”，
+“奥兰多”，
+“花环”，
+“海厄利亚”
+“拉雷多”，
+“丘拉维斯塔”
+“拉伯克”
+“雷诺”，
+“阿克伦”
+“达勒姆”
+“罗切斯特”，
+“莫德斯托”
+“蒙哥马利”
+“弗里蒙特”
+“什里夫波特”
+“阿灵顿”
+“格伦代尔”]
