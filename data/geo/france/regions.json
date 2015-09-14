@@ -1,28 +1,28 @@
 data = [
-"Alsace",
-"Aquitaine",
-"Auvergne",
-"Bretagne",
-"Bourgogne",
-"Centre",
-"Champagne-Ardenne",
-"Franche-Comté",
-"Île-de-France",
-"Languedoc-Roussillon",
-"Limousin",
-"Lorraine",
-"Basse-Normandie",
-"Midi-Pyrénées",
-"Nord-Pas-de-Calais",
-"Pays de la Loire",
-"Picardie",
-"Poitou-Charentes",
-"Provence-Alpes-Côte d'Azur",
-"Rhône-Alpes",
-"Haute-Normandie",
-"Corse",
-"Guyane",
-"Guadeloupe",
-"Martinique",
-"Mayotte",
-"La Réunion"]
+“阿尔萨斯”
+“阿基坦”
+“奥弗涅”
+“布列塔尼”
+“勃艮第”
+“中心”，
+“香槟 - 阿登”
+“弗朗什 - 孔泰”
+“法兰西岛”
+“朗格多克 - 鲁西荣”
+“赞”
+“洛林”
+“下诺曼底”
+“南部 - 比利牛斯”
+“北部 - 加来海峡”
+“卢瓦尔河谷”
+“皮卡”
+“普瓦图 - 夏朗德大区”
+“普罗旺斯 - 阿尔卑斯 - 蓝色海岸”
+“罗纳 - 阿尔卑斯大区”
+“上诺曼底”
+“科西嘉岛”
+“圭亚那”
+“瓜德罗普岛”
+“马提尼克岛”
+“马约特”
+“团圆”]
